@@ -1,0 +1,37 @@
+﻿<Window x:Class="ClientforVirtual.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Client" Height="350" Width="525">
+    <Grid>
+        <Button Name="Scan_Serv" Content="Check Active machine" Margin="194,10,194,0" VerticalAlignment="Top" Height="39" Click="Scan_Serv_Click"/>
+        <ListView Name="ListView_Serv" HorizontalAlignment="Left" Height="241" Margin="10,68,0,0" VerticalAlignment="Top" Width="497">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="HorizontalContentAlignment" Value="Center" />
+                </Style>
+            </ListView.ItemContainerStyle>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="100" Header="№"  DisplayMemberBinding="{Binding Position}"  />
+                    <GridViewColumn Width="100" Header="Name"  DisplayMemberBinding="{Binding Name}"  />
+                    <GridViewColumn Width="100" Header="IpAddress"  DisplayMemberBinding="{Binding IPAddres}"  />
+                    <GridViewColumn Width="100" Header="Port"  DisplayMemberBinding="{Binding Port}"  />
+                    <GridViewColumn Width="100" Header="Online"  DisplayMemberBinding="{Binding Online}"  />
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Shutdown" 
+                                        Click="OnSelectedItemClicked"
+                                        />
+                    <MenuItem Header="Reboot" 
+                                        Click="OnSelectedItemClicked"
+                                        />
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+        <Label Content="Доступные сервера :" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Width="142"/>
+
+    </Grid>
+</Window>

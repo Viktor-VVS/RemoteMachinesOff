@@ -1,0 +1,36 @@
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\MainWindow.baml
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\MainWindow.g.cs
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\App.g.cs
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\ServerforVirtual_MarkupCompile.cache
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\ServerforVirtual.g.resources
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\ServerforVirtual.Properties.Resources.resources
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\ServerforVirtual.csproj.GenerateResource.Cache
+D:\teamdev\traindev1\train\ServerforVirtual\bin\Debug\ServerforVirtual.exe
+D:\teamdev\traindev1\train\ServerforVirtual\bin\Debug\ServerforVirtual.pdb
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\ServerforVirtual.exe
+D:\teamdev\traindev1\train\ServerforVirtual\obj\Debug\ServerforVirtual.pdb
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.exe
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.pdb
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\bin\Debug\ServerforVirtual.exe
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\bin\Debug\ServerforVirtual.pdb
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.csprojResolveAssemblyReference.cache
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\MainWindow.baml
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\MainWindow.g.cs
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\App.g.cs
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual_MarkupCompile.cache
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.g.resources
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.Properties.Resources.resources
+D:\work hard\С#\14 Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\bin\Debug\ServerforVirtual.exe
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\bin\Debug\ServerforVirtual.pdb
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.csprojResolveAssemblyReference.cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\MainWindow.baml
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\MainWindow.g.cs
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\App.g.cs
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual_MarkupCompile.cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.g.resources
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.Properties.Resources.resources
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.csproj.GenerateResource.Cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.csproj.CoreCompileInputs.cache
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.exe
+C:\Users\VIKTOR\Desktop\Программист\Избранные проекты\С#\-- Клиент Сервер  выключение виртуалки\ServerforVirtual\ServerforVirtual\obj\Debug\ServerforVirtual.pdb

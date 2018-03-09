@@ -1,0 +1,13 @@
+﻿<Window x:Class="ServerforVirtual.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Server" Height="350" Width="525" StateChanged="Window_StateChanged_1">
+    <Grid>
+        <TextBox Name="IP" Height="27" Margin="140,26,64,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="127.0.0.1"/>
+        <TextBox Name="Ports" Height="27" Margin="140,90,64,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="4455"/>
+        <Label Content="Destination IP :" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="125"/>
+        <Label Content="Destination Port :" HorizontalAlignment="Left" Margin="10,91,0,0" VerticalAlignment="Top" Width="125"/>
+        <Button Name="Listen" Content="LISTEN" Margin="174,150,174,0" Height="36" VerticalAlignment="Top" Click="Listen_Click"/>
+        <TextBox Name="Comments" Height="99" Margin="30,201,30,0" TextWrapping="Wrap" VerticalAlignment="Top" AcceptsReturn="True" VerticalScrollBarVisibility="Auto"/>
+    </Grid>
+</Window>
